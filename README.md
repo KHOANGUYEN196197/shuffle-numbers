@@ -1,2 +1,2 @@
 # shuffle-numbers
-shuffle numbers game with reactjs
+shuffle numbers game with vue
